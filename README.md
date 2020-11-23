@@ -1,3 +1,6 @@
+# 用途
+  用于进行源码分析的源码。主要添加了一些注释，方便进行复盘和理解。
+
 # Apache ZooKeeper
 ![alt text](https://zookeeper.apache.org/images/zookeeper_small.gif "ZooKeeper")
 
